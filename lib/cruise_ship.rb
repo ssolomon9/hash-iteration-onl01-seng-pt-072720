@@ -14,6 +14,11 @@ passengers.each do |suite, name|
     winner = name
   end
 end
+<<<<<<< HEAD
  
 winner
 end
+=======
+
+winner
+>>>>>>> 0772209e15539978612f0ea58d6f46ca9f417dc7
